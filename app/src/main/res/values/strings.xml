@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ForeCast</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="weekForecast">
+        <item>Lunes - Nublado - 8-12ºC</item>
+        <item>Martes - Nublado - 8-12ºC</item>
+        <item>Miercoles - Mordor - -100-95ºC</item>
+        <item>Jueves - Nublado - 8-12ºC</item>
+        <item>Viernes - Soleado - 15-60ºC</item>
+        <item>Sabado - Soleado - 99-99ºC</item>
+        <item>Domingo - Tormenta tropical "Ihssan" (llueve mucho)- 36-40ºC</item>
+    </string-array>
+</resources>
